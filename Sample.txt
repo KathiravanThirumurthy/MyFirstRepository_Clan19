@@ -1,1 +1,2 @@
-This is sample file created in local repo
+This is sample file created in local repo.
+Second line created 
